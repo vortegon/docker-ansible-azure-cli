@@ -1,5 +1,5 @@
 # pull base image
-FROM mcr.microsoft.com/azure-cli:2.0.56
+FROM vortegon/az-cli
 
 # Labels.
 LABEL maintainer="victor347@gmail.com" \
